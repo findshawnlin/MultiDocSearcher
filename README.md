@@ -21,11 +21,14 @@ This is a simple document search tool that creates a basic graphical user interf
 
 ## Dependencies
 
-Make sure to install the required Python libraries:
+- Make sure to install the required Python libraries:
 
 ```bash
 pip install python-docx openpyxl.
 
-## Dependencies
+## How to Run
+ 
+ ```bash
+ python your_script_name.py
 
-python your_script_name.py
+
