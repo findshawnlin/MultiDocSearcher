@@ -21,19 +21,27 @@ This is a simple document search tool that creates a basic graphical user interf
 
 ## Dependencies
 
-Make sure to install the required Python libraries:
-
-```bash
-pip install python-docx openpyxl.
-
+- Make sure to install the required Python libraries:
+  ```bash
+  pip install python-docx openpyxl
+  
 ## How to Run
 
--To run the program, use the following command:
-
-```bash
-python your_script_name.py
+- To run the program, use the following command:
+  ```bash
+  python your_script_name.py
+- Replace 'your_script_name.py' with the name of your Python script.
 
 ## Notes
 
--If searching Excel files, ensure the files are not open, as this may cause errors.
--This tool only supports documents in the '.docx' and '.xlsx' formats.
+- If searching Excel files, ensure the files are not open, as this may cause errors.
+- This tool only supports documents in the '.docx' and '.xlsx' formats.
+
+## Contributions
+Feel free to raise issues, provide suggestions, or contribute code. Create an issue or submit a pull request.
+
+## License
+- This project is open-sourced under the MIT license.
+- Remember to replace `your_script_name.py` with the name of your Python script.
+
+  
