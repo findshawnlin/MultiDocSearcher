@@ -8,6 +8,11 @@ This is a simple document search tool that creates a basic graphical user interf
 - Recursively search for a specified keyword in document content or files.
 - Display search results and support opening files containing search results via a right-click menu.
 
+## Prerequisites
+
+- Python 3.x
+- Tkinter library
+
 ## Usage
 
 1. After running the program, click the "Select Document" button to choose the document to search or click the "Select Directory" button to choose the folder to search.
